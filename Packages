@@ -1,0 +1,18 @@
+Package: com.example.iconopacity
+Name: Icon Opacity
+Depends: mobilesubstrate, preferenceloader
+Description: Translucent icons and labels plus a colour overlay, with live preview
+Maintainer: ZeusMaster150
+Author: ZeusMaster150
+Section: Tweaks
+Homepage: https://github.com/ZeusMaster150/iosiconopacity
+SileoDepiction: https://zeusmaster150.github.io/depictions/com.example.iconopacity.json
+Icon: https://zeusmaster150.github.io/assets/iconopacity/icon.png
+Architecture: iphoneos-arm
+Version: 0.1.0-1
+Installed-Size: 128
+Filename: debs/com.example.iconopacity_0.1.0-1_iphoneos-arm.deb
+Size: 10314
+MD5sum: b9cfbbd89eb198592144cf17bf235d4c
+SHA1: b7a61f797cc144c0c9f3a60b0da78715e642e738
+SHA256: e345b89a3de7e24643b563e7a1ad75c1bd4b11fc8274e06c788274c4cf21617e
